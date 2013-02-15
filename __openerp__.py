@@ -16,6 +16,7 @@
     "data": [
         'views/account_move_line_search_unreconciled.xml',
         'views/account_move_line_tree.xml',
+        'views/partner_view.xml'
     ],
     #'demo_xml': [],
     'test': [],
