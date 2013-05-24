@@ -21,6 +21,7 @@
         'views/account_move_view.xml',
         'views/partner_view.xml',
         'views/payment_selection.xml',
+        'views/account_move_line_journal_items.xml',
     ],
     #'demo_xml': [],
     'test': [],
