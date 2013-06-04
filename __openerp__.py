@@ -16,7 +16,6 @@
     "data": [
         'data/partner_data.xml',
         'wizards/account_reconcile_view.xml',
-        'wizards/account_reconcile_search_view.xml',
         'views/account_move_line_search_unreconciled.xml',
         'views/account_move_line_tree.xml',
         'views/account_move_view.xml',
@@ -25,12 +24,6 @@
         'views/payment_selection.xml',
         'views/account_move_line_journal_items.xml',
         'views/account_menu_entries.xml'
-    ],
-    'js': [
-        'static/src/js/account_streamline_move_reconcile.js',
-    ],
-    'qweb' : [
-        'static/src/xml/account_streamline_move_reconcile.xml',
     ],
     #'demo_xml': [],
     'test': [],
