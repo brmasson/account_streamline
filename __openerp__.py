@@ -30,7 +30,8 @@
         'views/partner_view.xml',
         'views/payment_selection.xml',
         'views/account_move_line_journal_items.xml',
-        'views/account_menu_entries.xml'
+        'views/account_menu_entries.xml',
+        'views/account_move_line_journal_view.xml'
     ],
     #'demo_xml': [],
     'test': [],
