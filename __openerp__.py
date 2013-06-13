@@ -31,7 +31,10 @@
         'views/payment_selection.xml',
         'views/account_move_line_journal_items.xml',
         'views/account_menu_entries.xml',
-        'views/account_move_line_journal_view.xml'
+        'views/account_move_line_journal_view.xml',
+        'data/analytic.code.csv',
+        'data/analytic.dimension.csv',
+        'data/analytic.structure.csv'
     ],
     #'demo_xml': [],
     'test': [],
