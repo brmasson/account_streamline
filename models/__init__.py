@@ -7,3 +7,4 @@ from . import account_voucher_line
 from . import payment_selection
 from . import report
 from . import res_user
+from . import res_company
