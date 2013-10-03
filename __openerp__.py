@@ -32,6 +32,7 @@
         'views/account_move_line_journal_items.xml',
         'views/account_move_line_journal_view.xml',
         'views/account_menu_entries.xml',
+        'report/payment_notice.xml',
     ],
     #'demo_xml': [],
     'test': [],
