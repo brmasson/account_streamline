@@ -1,1 +1,1 @@
-from . import payment_notice
+from . import remittance_letter
