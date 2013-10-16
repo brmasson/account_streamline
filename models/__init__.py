@@ -5,6 +5,7 @@ from . import partner
 from . import account_voucher
 from . import account_voucher_line
 from . import payment_selection
+from . import payment_suggestion
 from . import report
 from . import res_user
 from . import res_company
