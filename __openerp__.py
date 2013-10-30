@@ -30,6 +30,7 @@
         'views/account_move_line_tree.xml',
         'views/account_move_view.xml',
         'views/account_view.xml',
+        'views/account_voucher.xml',
         'views/partner_view.xml',
         'views/payment_selection.xml',
         'views/payment_suggestion.xml',
