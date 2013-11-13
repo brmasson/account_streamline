@@ -37,7 +37,6 @@
         'views/account_move_line_journal_items.xml',
         'views/account_move_line_journal_view.xml',
         'views/account_menu_entries.xml',
-        'views/res_company.xml',
         'data/voucher_report_header.xml',
         'report/payment_suggestion.xml',
         'report/remittance_letter.xml',
