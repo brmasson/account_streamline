@@ -8,5 +8,4 @@ from . import ledger_type
 from . import payment_selection
 from . import payment_suggestion
 from . import report
-from . import res_user
 from . import res_company
